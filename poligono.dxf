@@ -1,0 +1,198 @@
+999
+********************************
+999
+*   DXF File - Entities Only   *
+999
+*        3D Data Format        *
+999
+*     Output from ENVISAGE     *
+999
+*     01-Oct-2013 14:53:20     *
+999
+********************************
+  0
+SECTION 
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$EXTMIN
+ 10
+70000.000
+ 20
+80000.000
+ 30
+2000.000
+  9
+$EXTMAX
+ 10
+77000.000
+ 20
+87000.000
+ 30
+2600.000
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+APPID
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  2
+MAPTEK_VULCAN
+ 70
+     0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+AAA
+ 62
+5
+ 66
+     1
+ 70
+     9
+1001
+MAPTEK_VULCAN
+1000
+VulcanName=B
+1000
+VulcanGroup=CHANCADO
+1000
+VulcanValue=0
+1000
+VulcanDescription=18-2340F11-PRODUCCION-BLOCKS
+1000
+VulcanPrimitive=
+1000
+VulcanLine=30
+1000
+VulcanPattern=0
+1000
+VulcanFeature=BLOCK
+  0
+VERTEX
+  8
+AAA
+ 62
+5
+ 10
+72492.402
+ 20
+83246.807
+ 30
+2345.000
+ 70
+    32
+  0
+VERTEX
+  8
+AAA
+ 62
+5
+ 10
+72502.517
+ 20
+83245.600
+ 30
+2345.000
+ 70
+    32
+  0
+VERTEX
+  8
+AAA
+ 62
+5
+ 10
+72500.001
+ 20
+83220.000
+ 30
+2345.000
+ 70
+    32
+  0
+VERTEX
+  8
+AAA
+ 62
+5
+ 10
+72479.998
+ 20
+83200.001
+ 30
+2345.000
+ 70
+    32
+  0
+VERTEX
+  8
+AAA
+ 62
+5
+ 10
+72466.015
+ 20
+83193.616
+ 30
+2345.000
+ 70
+    32
+  0
+VERTEX
+  8
+AAA
+ 62
+5
+ 10
+72463.008
+ 20
+83299.170
+ 30
+2345.000
+ 70
+    32
+  0
+VERTEX
+  8
+AAA
+ 62
+5
+ 10
+72497.162
+ 20
+83295.813
+ 30
+2345.000
+ 70
+    32
+  0
+SEQEND
+  8
+AAA
+  0
+ENDSEC
+  0
+EOF

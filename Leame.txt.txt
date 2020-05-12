@@ -1,0 +1,15 @@
+Instrucciones para utilizar el codigo que calcula el porcentaje de minado de las
+intersecciones de un solido triangulado con un conjunto de bloques.
+
+- Se debe ejecutar el archivo run.py que esta en el nivel que se halla este instructivo.
+
+- Las funciones en 2D del codigo se encuentran en la ruta
+
+geometry/controller/geometry_2d/
+
+- Las funciones en 3D del codigo estan en la ruta
+
+geometry/controller/geometry_3d/
+
+- Los porcentajes de minado obtenidos se pueden ver en el archivo "mining_solid.txt"
+generado por el programa.
